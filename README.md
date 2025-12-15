@@ -4,7 +4,7 @@ Execute SQL queries and analyze CSV data directly in your browser with support f
 
 ## Live Demo
 
-[Try it here](https://sqlite-csv-playground.itsryan.me/)
+[Try it here](https://rynf1t.github.io/sqlite-csv-playground/)
 
 ## Running Locally
 
